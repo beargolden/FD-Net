@@ -73,7 +73,7 @@ Table 2: Performance evaluation results of our proposed method against SOTA tech
 |  UNet   |   89.290   |   90.534   |   21.319   |   5.577   |   3.286   |   1.651   |
 | FD-Net  | **95.254** | **96.648** | **22.836** | **3.224** | **1.219** | **0.201** |
 
-| <img src="images/fig3_DIBCO2019_CATEGORY2_20.png" alt="fig3_DIBCO2019_CATEGORY2_20" style="zoom:15%;" /> | <img src="images/fig3_DIBCO2019_CATEGORY2_20-Gallego_SAE.png" alt="fig3_DIBCO2019_CATEGORY2_20-Gallego_SAE" style="zoom:15%;" /> |           |              |             |
+| <img src="images/fig3_DIBCO2019_CATEGORY2_20.png" alt="fig3_DIBCO2019_CATEGORY2_20" width="15%" /> | <img src="images/fig3_DIBCO2019_CATEGORY2_20-Gallego_SAE.png" alt="fig3_DIBCO2019_CATEGORY2_20-Gallego_SAE" width="15%" /> |           |              |             |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | --------- | ------------ | ----------- |
 | (a) Raw                                                      | (b) SAE                                                      | (c) GiB   | (d) SSP      | (e) ConvCRF |
 |                                                              |                                                              |           |              |             |
