@@ -36,6 +36,10 @@ Instead of using equal dilation rates or those with a common factor relationship
 
 It has been proven that by choosing an appropriate dilation rate, not only can the receptive field size be effectively increased, but also the segmentation accuracy can be significantly improved.
 
+<img src="images/fig2_network_architecture.png" alt="fig2_network_architecture" style="zoom:25%;" />
+
+Figure 2: The proposed FD-Net architecture
+
 ## Experiments
 
 Adam optimization and BCE-Dice loss
@@ -68,3 +72,9 @@ Table 2: Performance evaluation results of our proposed method against SOTA tech
 |   DSN   |   88.037   |   90.812   |   18.943   |   6.278   |   4.473   |   3.213   |
 |  UNet   |   89.290   |   90.534   |   21.319   |   5.577   |   3.286   |   1.651   |
 | FD-Net  | **95.254** | **96.648** | **22.836** | **3.224** | **1.219** | **0.201** |
+
+| ![fig3_DIBCO2019_CATEGORY2_20](images/fig3_DIBCO2019_CATEGORY2_20.tiff) |      |      |      |      |
+| ------------------------------------------------------------ | ---- | ---- | ---- | ---- |
+|                                                              |      |      |      |      |
+
+Figure 3: Binarization results of all evaluation techniques for CATEGORY2_20 in DIBCO 2019 dataset
