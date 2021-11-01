@@ -75,3 +75,6 @@ Table 2: Performance evaluation results of our proposed method against SOTA tech
 |  UNet   |   89.290   |   90.534   |   21.319   |   5.577   |   3.286   |   1.651   |
 | FD-Net  | **95.254** | **96.648** | **22.836** | **3.224** | **1.219** | **0.201** |
 
+<img src="images/fig3_DIBCO2019_CATEGORY2_20.png" title="Raw" width="150" /> <img src="images/fig3_DIBCO2019_CATEGORY2_20-Gallego_SAE.png" title="SAE" width="150" /> <img src="images/fig3_DIBCO2019_CATEGORY2_20-Bhowmik_GiB.png" title="GiB" width="150" /> <img src="images/fig3_DIBCO2019_CATEGORY2_20-Jia_SSP.png" title="SSP" width="150" /> <img src="images/fig3_DIBCO2019_CATEGORY2_20-Peng_woConvCRF.png" title="ConvCRF" width="150" /> <img src="images/fig3_DIBCO2019_CATEGORY2_20-Zhao_cGAN.png" title="cGAN" width="150" /> <img src="images/fig3_DIBCO2019_CATEGORY2_20-Vo_DSN.png" title="DSN" width="150" /> <img src="images/fig3_DIBCO2019_CATEGORY2_20-Bezmaternykh_UNet.png" title="U-Net" width="150" /> <img src="images/fig3_DIBCO2019_CATEGORY2_20-XW_DilatedNet.png" title="Proposed" width="150" /> <img src="images/fig3_DIBCO2019_CATEGORY2_20_GT.png" title="GT" width="150" /> 
+
+Figure 3: Binarization results of all evaluation techniques for CATEGORY2_20 in DIBCO 2019 dataset
