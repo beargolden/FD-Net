@@ -18,8 +18,7 @@ def conv_block(input_tensor, num_filters):
 
 
 def dilated_conv(input_tensor, num_filters, dilation_rate):
-    out = Conv2D(num_filters, kernel_size=3, dilation_rate=dilation_rate, padding="same",
-                 kernel_initializer="he_normal")(input_tensor)
+    out = Conv2D(num_filters, kernel_size=3, dilation_rate=dilation_rate, padding="same", kernel_initializer="he_normal")(input_tensor)
     # out = BatchNormalization()(out)
     out = Activation("relu")(out)
     return out
