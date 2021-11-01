@@ -1,6 +1,8 @@
 # FD-Net: A Fully Dilated Convolutional Network for Historical Document Image Binarization
 
-**This paper has been accepted and will be published in Proceedings of the *4th Chinese Conference on Pattern Recognition and Computer Vision (PRCV 2021)*, so please stay tuned.**
+**If the code is helpful to your research, the reader can refer to https://link.springer.com/chapter/10.1007/978-3-030-88004-0_42 and please cite the following paper:**
+
+- **W. Xiong, L. Yue, L. Zhou, L. Wei, M. Li, "FD-Net: A fully dilated convolutional network for historical document image binarization," in Proceedings of the 4th Chinese Conference on Pattern Recognition and Computer Vision (PRCV 2021), Beijing, CHINA, 2021, pp. 518-529. doi: 10.1007/978-3-030-88004-0_42**
 
 ## Introduction
 
@@ -8,7 +10,7 @@ Binarization of antiquarian document images is one of the most important operati
 
 Historical document images suffer from severe degradation, such as torn page, ink bleed through, text stroke fading, page stain, and artifacts. In addition, the variation of text strokes in degraded handwritten manuscripts further increases the difficulty of binarization.
 
-<img src="images/fig1_torn_pages.jpg" alt="fig1_torn_pages" width="150" /><img src="images/fig1_ink_bleed_through.jpg" alt="fig1_ink_bleed_through" width="150" /><img src="images/fig1_text_stroke_fading.jpg" alt="fig1_text_stroke_fading" width="150" /><img src="images/fig1_page_stain.jpg" alt="fig1_page_stain" width="150" /><img src="images/fig1_library_seal.jpg" alt="fig1_library_seal" width="150" /><img src="images/fig1_text_stroke_width_change.jpg" alt="fig1_text_stroke_width_change" width="150" />
+<img src="images/fig1_torn_pages.jpg" alt="fig1_torn_pages" width="200" /> <img src="images/fig1_ink_bleed_through.jpg" alt="fig1_ink_bleed_through" width="200" /> <img src="images/fig1_text_stroke_fading.jpg" alt="fig1_text_stroke_fading" width="200" /> <img src="images/fig1_page_stain.jpg" alt="fig1_page_stain" width="200" /> <img src="images/fig1_library_seal.jpg" alt="fig1_library_seal" width="200" /> <img src="images/fig1_text_stroke_width_change.jpg" alt="fig1_text_stroke_width_change" width="200" />
 
 Figure 1: Historical document image samples from recent DIBCO and H-DIBCO benchmark datasets
 
