@@ -10,7 +10,7 @@ Binarization of antiquarian document images is one of the most important operati
 
 Historical document images suffer from severe degradation, such as torn page, ink bleed through, text stroke fading, page stain, and artifacts. In addition, the variation of text strokes in degraded handwritten manuscripts further increases the difficulty of binarization.
 
-<img src="images/fig1_torn_pages.jpg" alt="fig1_torn_pages" width="300" /> <img src="images/fig1_ink_bleed_through.jpg" alt="fig1_ink_bleed_through" width="300" /> <img src="images/fig1_text_stroke_fading.jpg" alt="fig1_text_stroke_fading" width="300" /> <img src="images/fig1_page_stain.jpg" alt="fig1_page_stain" width="300" /> <img src="images/fig1_library_seal.jpg" alt="fig1_library_seal" width="300" /> <img src="images/fig1_text_stroke_width_change.jpg" alt="fig1_text_stroke_width_change" width="300" />
+<img src="images/fig1_torn_pages.jpg" alt="fig1_torn_pages" width="250" /> <img src="images/fig1_ink_bleed_through.jpg" alt="fig1_ink_bleed_through" width="250" /> <img src="images/fig1_text_stroke_fading.jpg" alt="fig1_text_stroke_fading" width="250" /> <img src="images/fig1_page_stain.jpg" alt="fig1_page_stain" width="250" /> <img src="images/fig1_library_seal.jpg" alt="fig1_library_seal" width="250" /> <img src="images/fig1_text_stroke_width_change.jpg" alt="fig1_text_stroke_width_change" width="250" />
 
 Figure 1: Historical document image samples from recent DIBCO and H-DIBCO benchmark datasets
 
