@@ -46,9 +46,14 @@ Figure 2: The proposed FD-Net architecture
 
 ### Requirements
 
-
-
-
+- anaconda
+- cudatoolkit=10.1.243
+- cudnn=7.6.5
+- keras=2.3.1
+- opencv=3.4.2
+- python=3.7.9
+- tensorflow-gpu=2.1.0
+- tqdm=4.51.0
 
 ### Download pre-trained U-Net and FD-Net model weights for Bickley Diary and DIBCO datasets
 
