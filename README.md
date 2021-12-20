@@ -42,6 +42,20 @@ It has been proven that by choosing an appropriate dilation rate, not only can t
 
 Figure 2: The proposed FD-Net architecture
 
+## Implementation Details
+
+### Requirements
+
+
+
+
+
+### Download pre-trained U-Net and FD-Net model weights for Bickley Diary and DIBCO datasets
+
+- [BaiduNetdisk] Link: https://pan.baidu.com/s/1bJT8SuFBN_KlT_kLoi_KFQ 
+  Extraction Code: jhrd
+- [Google Drive] Link: https://drive.google.com/file/d/1-0gYu310xi9ctS2ocIVcQDhh0a7ETp4_/view?usp=sharing
+
 ## Experiments
 
 Adam optimization and BCE-Dice loss
